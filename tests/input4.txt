@@ -1,0 +1,2 @@
+t1 a|b , t2 a*.a , t3 a*, t4 b , t5 (a|b)* #
+"a aac bbc aabc"
