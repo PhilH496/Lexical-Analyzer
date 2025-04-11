@@ -1,0 +1,4 @@
+t1 , "a"
+t3 , "aac"
+t3 , "bbc"
+t3 , "aabc"
