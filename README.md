@@ -18,3 +18,5 @@ A configurable lexical analyzer that automatically constructs tokenizers from re
 3. Input strings are processed through all DFAs simultaneously
 4. The longest matching token is selected at each position
 5. Invalid tokens are properly detected and reported
+The program is executed as follows:
+./a.out < input.txt > output.txt or with cat test_name.txt | .\a.exe > output.txt.
